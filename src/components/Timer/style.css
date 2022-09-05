@@ -1,0 +1,7 @@
+div{
+    text-align: center;
+    text-shadow: 2px 2px var(--second-color);
+    color: var(--main-color);
+    font-size: 5rem;
+    font-weight: bold;
+}
